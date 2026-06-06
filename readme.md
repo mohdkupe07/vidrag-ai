@@ -162,4 +162,7 @@ A mathematical measure of how similar two vectors are, regardless of their size.
 **Whisper Translation**
 By using `task="translate"` instead of `task="transcribe"`, Whisper converts Hindi speech directly to English text — making the embeddings work in English space without a separate translation step.
 
+👨‍💻 Author
+-Mohammed Asif Kupe
+
 ---
