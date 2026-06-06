@@ -64,6 +64,7 @@ Video Input
 
 - ollama pull bge-m3
 - ollama pull llama3.2
+  
 
 ▶️ **Run Project**
 
