@@ -62,8 +62,8 @@ Video Input
 
 ### Required Models
 
-ollama pull bge-m3
-ollama pull llama3.2
+- ollama pull bge-m3
+- ollama pull llama3.2
 
 ▶️ **Run Project**
 
