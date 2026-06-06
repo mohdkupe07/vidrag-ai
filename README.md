@@ -68,8 +68,7 @@ Video Input
 
 ▶️ **Run Project**
 
-- git clone <your-repo-link>
-- cd vidrag
+- git clone <your-repo-link> cd vidrag
 - pip install -r requirements.txt
 - python app.py
 
